@@ -5,6 +5,11 @@ An interactive machine-learning and financial analytics system for comparing cry
 The project combines financial data preprocessing, time-series alignment, financial feature engineering, multiclass machine-learning classification, risk analysis, and interactive visualization through a Streamlit dashboard.
 
 ---
+## Live Demo
+
+[Open the Streamlit App](https://crypto-stock-market-intelligence.streamlit.app/)
+
+---
 
 ## Research Publication
 
