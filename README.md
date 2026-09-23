@@ -7,7 +7,7 @@ The project combines financial data preprocessing, time-series alignment, financ
 ---
 ## Live Demo
 
-[Open the Streamlit App](https://crypto-stock-market-intelligence.streamlit.app/)
+[Launch the Interactive Streamlit Dashboard →](https://crypto-stock-market-intelligence.streamlit.app/)
 
 ---
 
