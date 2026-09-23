@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or repository in academic work, please cite the associated research project."
+title: "AI-Powered Interactive Analysis of Cryptocurrency and Stock Markets"
+type: software
+authors:
+  - family-names: "Sumona"
+    given-names: "Shanjida Nahar"
+  - family-names: "Asma"
+    given-names: "Sumaiya Bushratul"
+  - family-names: "Bashrat"
+    given-names: "Labibah"
+  - family-names: "Ahalam"
+    given-names: ""
+  - family-names: "Rahman"
+    given-names: "Md. Ataur"
+  - family-names: "Hasan"
+    given-names: "Mahady"
+
+repository-code: "https://github.com/suubx/crypto-stock-market-analysis"
+url: "https://github.com/suubx/crypto-stock-market-analysis"
+
+keywords:
+  - cryptocurrency
+  - stock market
+  - machine learning
+  - financial analysis
+  - Streamlit
+  - Random Forest
+  - Logistic Regression
