@@ -410,7 +410,7 @@ st.markdown(
 )
 
 st.title("Crypto vs. Stock Markets: Trends, Volatility & Risk Analysis")
-st.caption("GUI demonstration: Input → Preprocess → Process → Output")
+st.caption("Interactive financial analytics and machine-learning dashboard for Bitcoin, Ethereum, NASDAQ, and S&P 500.")
 
 
 # ============================================================
@@ -762,7 +762,7 @@ df = handle_missing_values(raw_df, missing_method)
 tab1, tab2, tab3, tab4 = st.tabs([
     "1. Input",
     "2. Preprocess",
-    "3. Process / Model",
+    "3. Model & Analysis",
     "4. Output & Analysis",
 ])
 
@@ -1820,4 +1820,3 @@ with tab4:
 # ============================================================
 
 st.markdown("---")
-st.caption("Prepared for Data Analysis and Visualization final project demonstration.")
