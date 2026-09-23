@@ -404,6 +404,16 @@ Until then, please refer to the work as:
 
 ---
 
+## License and Data Usage
+
+The source code in this repository is available under the [MIT License](LICENSE).
+
+The financial datasets and derived data remain subject to the licensing and usage terms of their original data providers. See [`DATA_SOURCES.md`](DATA_SOURCES.md) for dataset provenance and attribution.
+
+The research paper, conference presentation, figures, and other academic materials are provided for scholarly reference and are not covered by the MIT License unless explicitly stated otherwise.
+
+---
+
 ## Disclaimer
 
 This project was developed for **academic and research purposes**.
